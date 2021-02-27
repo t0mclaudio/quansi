@@ -1,3 +1,3 @@
-# Strapi application
+# My Question and Answer API
 
-A quick description of your strapi application
+A personal project on a simple q&a app
